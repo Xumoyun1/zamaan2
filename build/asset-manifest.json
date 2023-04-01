@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06e00244.css",
+    "main.js": "/static/js/main.15c7ad6a.js",
+    "static/js/787.3e5bcad8.chunk.js": "/static/js/787.3e5bcad8.chunk.js",
+    "static/media/wfoot_5.png": "/static/media/wfoot_5.6a0b8c93673c4f2b9633.png",
+    "static/media/lbody_back_2.png": "/static/media/lbody_back_2.b618e1f4d134633a0f3a.png",
+    "static/media/lbody_back.png": "/static/media/lbody_back.0c3b7390a9ebd92ed6c8.png",
+    "static/media/sbody_3.png": "/static/media/sbody_3.ba100d730b009c4e66d5.png",
+    "static/media/shead_1.png": "/static/media/shead_1.899f51d69fdf6844ab3a.png",
+    "static/media/whead_1.png": "/static/media/whead_1.94d52c0ab2d433f5bb40.png",
+    "static/media/ahead_1.png": "/static/media/ahead_1.b06139eefe04187ebd87.png",
+    "static/media/Poppins-Italic.ttf": "/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
+    "static/media/Poppins-MediumItalic.ttf": "/static/media/Poppins-MediumItalic.89e040c6a64d18f620dc.ttf",
+    "static/media/Poppins-SemiBoldItalic.ttf": "/static/media/Poppins-SemiBoldItalic.3524ffc3226f4578e5c5.ttf",
+    "static/media/Poppins-BoldItalic.ttf": "/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
+    "index.html": "/index.html",
+    "main.06e00244.css.map": "/static/css/main.06e00244.css.map",
+    "main.15c7ad6a.js.map": "/static/js/main.15c7ad6a.js.map",
+    "787.3e5bcad8.chunk.js.map": "/static/js/787.3e5bcad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e00244.css",
+    "static/js/main.15c7ad6a.js"
+  ]
+}
